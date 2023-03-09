@@ -22,7 +22,7 @@
   <distributionManagement>
 	  <repository>
 		  <id>riyaz-release</id>
-		  <url>http://3.95.83.239:8081/repository/riyaz-srelease/</url>
+		  <url>http://3.95.83.239:8081/repository/riyaz-release/</url>
 		  <layout>default</layout>
 		  <releases>
 			  <enabled>true</enabled>
